@@ -1,4 +1,4 @@
-algoritmo "vetor, função e repetição - André"
+algoritmo "vetor, funcao e repeticao - Andre"
 
 var
 
@@ -24,7 +24,7 @@ var
 inicio
 
  repita
-   escreva("Digite seu nome (até 10 letras): ")
+   escreva("Digite seu nome (ate 10 letras): ")
    leia(nome)
 
    se compr(nome) > 10 entao
@@ -37,7 +37,7 @@ inicio
 
 
    para i de 1 ate 10 faca
-      escreva("Digite o número ", i, ": ")
+      escreva("Digite o numero ", i, ": ")
       leia(numeros[i])
    fimpara
 
@@ -48,7 +48,7 @@ inicio
    fimpara
 
 
-   escreval("Média = ", media())
+   escreval("Media = ", media())
 
 
 
